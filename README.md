@@ -15,8 +15,9 @@ b.	If using R: use the data/datasets library
 5.	Describe the steps and checks you would take to prepare this dataset for a machine learning model and provide comments on any challenges you may face in modelling.
 
 =========================================================
-The Iris Dataset
-=========================================================
+
+# The Iris Dataset
+
 This data sets consists of 3 different types of irises'
 (Setosa, Versicolour, and Virginica) petal and sepal
 length, stored in a 150x4 numpy.ndarray
