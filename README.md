@@ -1,5 +1,5 @@
 # iris-exploration
-"""
+
 Data science activity on the Iris data set.
 
 1.	Set up a Git Repository for this activity on https://github.com/. 
@@ -27,4 +27,3 @@ Sepal Length, Sepal Width, Petal Length and Petal Width.
 See `here <https://en.wikipedia.org/wiki/Iris_flower_data_set>`_ for more
 information on this dataset.
 
-"""
