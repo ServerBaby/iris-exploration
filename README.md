@@ -1,4 +1,5 @@
 # iris-exploration
+"""
 Data science activity on the Iris data set.
 
 1.	Set up a Git Repository for this activity on https://github.com/. 
@@ -12,3 +13,21 @@ b.	If using R: use the data/datasets library
 4.	Store your code on the git repository you have created and provide a link to your repository.
 
 5.	Describe the steps and checks you would take to prepare this dataset for a machine learning model and provide comments on any challenges you may face in modelling.
+"""
+
+"""
+=========================================================
+The Iris Dataset
+=========================================================
+This data sets consists of 3 different types of irises'
+(Setosa, Versicolour, and Virginica) petal and sepal
+length, stored in a 150x4 numpy.ndarray
+
+The rows being the samples and the columns being:
+Sepal Length, Sepal Width, Petal Length and Petal Width.
+
+The below plot uses the first two features.
+See `here <https://en.wikipedia.org/wiki/Iris_flower_data_set>`_ for more
+information on this dataset.
+
+"""
